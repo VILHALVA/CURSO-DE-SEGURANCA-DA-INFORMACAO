@@ -2,6 +2,7 @@
 👨‍⚖️SEGURANÇA DA INFORMAÇÃO É UM CONJUNTO DE MEDIDAS E PRÁTICAS QUE VISAM PROTEGER AS INFORMAÇÕES E DADOS SENSÍVEIS DE UMA ORGANIZAÇÃO, GARANTINDO SUA CONFIDENCIALIDADE, INTEGRIDADE E DISPONIBILIDADE. ISSO INCLUI A PROTEÇÃO CONTRA ACESSOS NÃO AUTORIZADOS, ATAQUES CIBERNÉTICOS, ROUBO OU PERDA DE DADOS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=SEGURANÇA)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf)
 <br>
 
