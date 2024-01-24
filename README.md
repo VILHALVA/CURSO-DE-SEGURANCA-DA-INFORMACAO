@@ -2,7 +2,6 @@
 👨‍⚖️SEGURANÇA DA INFORMAÇÃO É UM CONJUNTO DE MEDIDAS E PRÁTICAS QUE VISAM PROTEGER AS INFORMAÇÕES E DADOS SENSÍVEIS DE UMA ORGANIZAÇÃO, GARANTINDO SUA CONFIDENCIALIDADE, INTEGRIDADE E DISPONIBILIDADE. ISSO INCLUI A PROTEÇÃO CONTRA ACESSOS NÃO AUTORIZADOS, ATAQUES CIBERNÉTICOS, ROUBO OU PERDA DE DADOS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=SEGURANÇA)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf)
 <br>
 
@@ -12,10 +11,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%2003-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dk_fmrqfUjH6Ud6S5NYMaj1&si=9l5AeGiUBqj15Mee)
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%2004-blueviolet)](https://www.estudonauta.com/matricula/)
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%2005-blueviolet)](https://www.estudonauta.com/matricula/)
-
-<img src="https://grvppe.com/wp-content/uploads/2020/02/informacao.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 ## CONCEITO:
 O conceito de segurança da informação refere-se à prática de proteger ativos de informações, como dados, sistemas, redes e dispositivos, contra ameaças, riscos e vulnerabilidades, a fim de garantir a confidencialidade, integridade e disponibilidade desses ativos. A segurança da informação envolve a implementação de medidas e controles técnicos, políticas, procedimentos e treinamento para mitigar os riscos associados ao armazenamento, processamento e transmissão de informações.
