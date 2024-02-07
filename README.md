@@ -1,16 +1,7 @@
 # CURSO DE SEGURANÇA DA INFORMAÇÃO
 👨‍⚖️SEGURANÇA DA INFORMAÇÃO É UM CONJUNTO DE MEDIDAS E PRÁTICAS QUE VISAM PROTEGER AS INFORMAÇÕES E DADOS SENSÍVEIS DE UMA ORGANIZAÇÃO, GARANTINDO SUA CONFIDENCIALIDADE, INTEGRIDADE E DISPONIBILIDADE. ISSO INCLUI A PROTEÇÃO CONTRA ACESSOS NÃO AUTORIZADOS, ATAQUES CIBERNÉTICOS, ROUBO OU PERDA DE DADOS.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf)
-<br>
-
-[![GitHub Repo stars](https://img.shields.io/badge/-MODULO%2000-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlaTyjolzCFC6IjLzO8O0XV&si=oKYkPqAAwCF3DmPz)
-[![GitHub Repo stars](https://img.shields.io/badge/-MODULO%2001-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dkYS6J9KeYgCCVpo5OXkvgE&si=X9G9TSymoJJCJgjy)
-[![GitHub Repo stars](https://img.shields.io/badge/-MODULO%2002-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlT599reA1xLkbT83g2gMvI&si=EDCYTs0YCTBz_nER)
-[![GitHub Repo stars](https://img.shields.io/badge/-MODULO%2003-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dk_fmrqfUjH6Ud6S5NYMaj1&si=9l5AeGiUBqj15Mee)
-[![GitHub Repo stars](https://img.shields.io/badge/-MODULO%2004-blueviolet)](https://www.estudonauta.com/matricula/)
-[![GitHub Repo stars](https://img.shields.io/badge/-MODULO%2005-blueviolet)](https://www.estudonauta.com/matricula/)
+<img src="FOTO.png" align="center" width="400"> <br>
 
 ## CONCEITO:
 O conceito de segurança da informação refere-se à prática de proteger ativos de informações, como dados, sistemas, redes e dispositivos, contra ameaças, riscos e vulnerabilidades, a fim de garantir a confidencialidade, integridade e disponibilidade desses ativos. A segurança da informação envolve a implementação de medidas e controles técnicos, políticas, procedimentos e treinamento para mitigar os riscos associados ao armazenamento, processamento e transmissão de informações.
@@ -40,8 +31,7 @@ Aqui estão os principais componentes do conceito de segurança da informação:
 A segurança da informação é um campo crítico em um mundo cada vez mais digital, onde a confiabilidade e a proteção de informações são essenciais para empresas, governos e indivíduos. A implementação eficaz da segurança da informação ajuda a proteger contra ameaças como violações de dados, roubo de identidade, espionagem cibernética e outras formas de cibercrime.
 
 ## CARACTERISTICAS:
-### Características Positivas:
-
+### POSITIVAS:
 1. Confidencialidade: A confidencialidade assegura que as informações sensíveis permaneçam protegidas contra acessos não autorizados. Isso é alcançado por meio de técnicas como criptografia e controles de acesso, garantindo que apenas pessoas autorizadas possam acessar os dados confidenciais.
 
 2. Integridade: A integridade garante que os dados não tenham sido alterados de maneira não autorizada. Isso envolve o uso de técnicas como controle de versão, checksums e assinaturas digitais para verificar a autenticidade e integridade dos dados.
@@ -52,8 +42,7 @@ A segurança da informação é um campo crítico em um mundo cada vez mais digi
 
 5. Não repúdio: A característica de não repúdio impede que as partes envolvidas em uma transação neguem seu envolvimento. Isso é garantido por meio de registros de auditoria, assinaturas digitais e outros mecanismos que comprovem a autenticidade das transações.
 
-### Características Negativas:
-
+### NEGATIVAS:
 1. Vulnerabilidades: As vulnerabilidades são fraquezas em sistemas, aplicativos ou práticas que podem ser exploradas por invasores para comprometer a segurança. A existência de vulnerabilidades pode representar uma ameaça à segurança da informação.
 
 2. Ameaças: As ameaças são eventos ou situações que têm o potencial de explorar vulnerabilidades e causar danos à segurança da informação. Isso pode incluir ataques de hackers, malware, engenharia social e outros perigos.
@@ -65,3 +54,14 @@ A segurança da informação é um campo crítico em um mundo cada vez mais digi
 5. Custo: A implementação de medidas de segurança da informação pode ser dispendiosa em termos de recursos financeiros e de pessoal. No entanto, não investir adequadamente em segurança pode levar a custos ainda maiores em caso de violações de dados.
 
 Em resumo, a segurança da informação envolve equilibrar características positivas para proteger ativos de informações valiosos e sensíveis com a mitigação de características negativas que representam ameaças e riscos à segurança. É um campo em constante evolução, com desafios técnicos e estratégicos.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/@CursoemVideo)
+  - [MODULO 0](https://youtube.com/playlist?list=PLHz_AreHm4dlaTyjolzCFC6IjLzO8O0XV&si=oKYkPqAAwCF3DmPz)
+  - [MODULO 1](https://youtube.com/playlist?list=PLHz_AreHm4dkYS6J9KeYgCCVpo5OXkvgE&si=X9G9TSymoJJCJgjy)
+  - [MODULO 2](https://youtube.com/playlist?list=PLHz_AreHm4dlT599reA1xLkbT83g2gMvI&si=EDCYTs0YCTBz_nER)
+  - [MODULO 3](https://youtube.com/playlist?list=PLHz_AreHm4dk_fmrqfUjH6Ud6S5NYMaj1&si=9l5AeGiUBqj15Mee)
+  - [MODULO 4](https://www.estudonauta.com/matricula/)
+  - [MODULO 5](https://www.estudonauta.com/matricula/)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf)
