@@ -57,11 +57,11 @@ Em resumo, a segurança da informação envolve equilibrar características posi
 
 ## SUBSIDIOS:
 - [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/@CursoemVideo)
-  - [MODULO 0](https://youtube.com/playlist?list=PLHz_AreHm4dlaTyjolzCFC6IjLzO8O0XV&si=oKYkPqAAwCF3DmPz)
-  - [MODULO 1](https://youtube.com/playlist?list=PLHz_AreHm4dkYS6J9KeYgCCVpo5OXkvgE&si=X9G9TSymoJJCJgjy)
-  - [MODULO 2](https://youtube.com/playlist?list=PLHz_AreHm4dlT599reA1xLkbT83g2gMvI&si=EDCYTs0YCTBz_nER)
-  - [MODULO 3](https://youtube.com/playlist?list=PLHz_AreHm4dk_fmrqfUjH6Ud6S5NYMaj1&si=9l5AeGiUBqj15Mee)
-  - [MODULO 4](https://www.estudonauta.com/matricula/)
-  - [MODULO 5](https://www.estudonauta.com/matricula/)
+  - [MODULO 00](https://youtube.com/playlist?list=PLHz_AreHm4dlaTyjolzCFC6IjLzO8O0XV&si=oKYkPqAAwCF3DmPz)
+  - [MODULO 01](https://youtube.com/playlist?list=PLHz_AreHm4dkYS6J9KeYgCCVpo5OXkvgE&si=X9G9TSymoJJCJgjy)
+  - [MODULO 02](https://youtube.com/playlist?list=PLHz_AreHm4dlT599reA1xLkbT83g2gMvI&si=EDCYTs0YCTBz_nER)
+  - [MODULO 03](https://youtube.com/playlist?list=PLHz_AreHm4dk_fmrqfUjH6Ud6S5NYMaj1&si=9l5AeGiUBqj15Mee)
+  - [MODULO 04](https://www.estudonauta.com/matricula/)
+  - [MODULO 05](https://www.estudonauta.com/matricula/)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf)
