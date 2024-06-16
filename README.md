@@ -56,7 +56,7 @@ A segurança da informação é um campo crítico em um mundo cada vez mais digi
 Em resumo, a segurança da informação envolve equilibrar características positivas para proteger ativos de informações valiosos e sensíveis com a mitigação de características negativas que representam ameaças e riscos à segurança. É um campo em constante evolução, com desafios técnicos e estratégicos.
 
 ## SUBSIDIOS:
-- [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/@CursoemVideo)
+- [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/c/CursoemV%C3%ADdeo)
   - [MODULO 00](https://youtube.com/playlist?list=PLHz_AreHm4dlaTyjolzCFC6IjLzO8O0XV&si=oKYkPqAAwCF3DmPz)
   - [MODULO 01](https://youtube.com/playlist?list=PLHz_AreHm4dkYS6J9KeYgCCVpo5OXkvgE&si=X9G9TSymoJJCJgjy)
   - [MODULO 02](https://youtube.com/playlist?list=PLHz_AreHm4dlT599reA1xLkbT83g2gMvI&si=EDCYTs0YCTBz_nER)
